@@ -8,7 +8,7 @@ session_start();
 <html lang="en">
 
 <head>
-  <title>Aimgod eSports - Tornaments</title>
+  <title>Aimbotfx Esports Tornaments</title>
   <?php include "assets/pages/header.php"; ?>
 </head>
 
